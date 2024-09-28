@@ -1,0 +1,24 @@
+.card{
+    width: 20vw;
+    border: 2px solid black;
+    margin-top: 10px;
+    text-align: center;
+    cursor: pointer;
+    /* object-fit: cover; */
+
+}
+
+.card img{
+    width: 100%;
+    /* border: 0.5px solid black; */
+}
+
+.card p{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.card img:hover{
+    /* transform: scale(1.1); */
+    box-shadow: 0 0 10px 10px  rgb(39, 39, 39);
+}

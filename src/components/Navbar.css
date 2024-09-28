@@ -1,0 +1,41 @@
+body{
+    background-color: cyan;
+}
+
+li{
+    list-style-type: none;
+    font-size: large;
+    font-weight:bold;
+    cursor: pointer;
+   
+}
+li:hover{
+    font-weight:900px;
+    text-decoration: underline;
+}
+
+ul{
+    gap: 34px;
+    display: flex;
+    padding-left: 1700px;
+    align-items: center;
+    
+
+}
+
+
+
+nav{
+    background-color: #8611c5;
+    padding: 25px;
+    display: flex;
+    
+   
+}
+
+.home{
+   font-size: 30px;
+   padding-top: 10px;
+   align-items: center;
+   padding-left: 20px;
+}
